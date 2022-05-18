@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
   - Mean score
 - Score bar graph
 - Most read authors bar graph
-- Some kind of gendre distribution?
+- Some kind of genre distribution?
 - Status distribution
 - Country distribution
 - Release year
