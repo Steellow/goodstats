@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# GoodStats
 
 Displays your goodreads stats using [Chart.js](https://www.chartjs.org).
 
